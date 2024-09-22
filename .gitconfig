@@ -1,0 +1,7 @@
+[user]
+	name = ifejika chichetam('kidiIT')
+[credential]
+	credentialStore = dpapi
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
