@@ -65,7 +65,7 @@ VulnSniff project is an open-source and free to use under MIT License. Contribut
 1. On your Windows, open the powershell terminal as an adminstrator
 2. when done, like wls  after which you'll logged in as the root-user just like on your Linux operating system.
 3. ## run this command: `wsl --set-version ubuntu 2 in Powershell.
-# this command sets the WSL version for your ubuntu distribution from the windows side. Make sure to run PowerShell as an administrator for the command to work.
+this command sets the WSL version for your ubuntu distribution from the windows side. Make sure to run PowerShell as an administrator for the command to work.
 
 ##   Uninstallation instructions
 1. Deactivate the virtual environemnt(if activated):
