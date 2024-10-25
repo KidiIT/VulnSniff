@@ -1,0 +1,61 @@
+### NOTE: This is a generated file. See the accompanying README file for more info.
+### Comment the line to (1) use the default or (2) set to disabled.
+
+
+## Timeout in seconds waiting for response. { 1...600} Default is 180.
+#WGETTIMEOUTSECS=180
+
+## Number of retry when there is no response. { 1...6 } Default is 1.
+#WGETTRYNUM=1
+
+## Use HTTP connection. Default is use HTTPS. Uncomment var for HTTP.
+#WSNOSSL=true
+
+## Optimized enumeration, required for WSENUMMAXELEM. Default is none specified (none optimized).
+#WSENUMOPTIMIZE=true
+
+## Max number of instances in a response. { 1...1048576 } Default is 512.
+#WSENUMMAXELEM=512
+
+## WSMAN operation timeout in seconds. Default is none specified.
+#WSOPERATIONTIMEOUT=360
+
+## WSMAN maximum SOAP envelope size the client is willing to accept. Default is none specified.
+#WSMAXENVELOPESIZE=32767
+
+## Schema prefix used for non-DMTF class. Default is "schemas.dell.com"
+#WSDEFAULTSCHEMA="schemas.dell.com"
+
+## Interactive level: 0=NoAsk, 1=AskIPAddress, 2=AskIPandCredential. Default is 0.
+#IPINTERACTIVE=1
+
+## Remember IP address and user credential. Default is keep history. Uncomment var to prevent history use.
+#KEEPHISTORY=0
+
+## Show history when asking for an environment variable input. Undefined or 0 = no show, 1 show. Default is no show.
+#SHOWHISTORY=1
+
+## Display date-time stamp. Default is disabled.
+#DATETIMESTAMP=true
+
+## Formatted display of response XML. Default is disabled.
+#FORMATDISPLAY=true
+
+## Output level: 0=NoOutput, 1=ResponseOnly, 2=AddRequest, 3=AddMore. Default is 1.
+#OUTLEVEL=2
+
+## Output directory. Default is current directory.
+#OUTPREFIX=.
+
+## Log filename. Default is log.txt
+#LOGFILE="log.txt"
+
+## Result XML filename. Default response.xml
+#RETURNFILE="response.xml"
+
+## Echo back the command to console for debug purpose. Default is disabled.
+#ECHOCMD=true
+
+## CURL has HTTP1.1 support while WGET is widely available. Default is CURL
+#USEWGET=true
+
