@@ -1,1 +1,0 @@
-https://auth-cdn-m-SSO---Kucoin.webflow.io (GET)  # /usr/bin/sqlmap -u https://auth-cdn-m-SSO---Kucoin.webflow.io --risk=3 --level=5
