@@ -1,5 +1,6 @@
 #  VulnSniff
 Vulnerability detection and packet sniffing Tool
+
 VulnSniff is a network packet sniffer integrated with vulnerability detection, designed to enhance network security by analyzing traffic and identifying potential vulnerabilities.
 Leveraging Nmap for vulnerability scanning. However, VulnSniff allows users to capture and inspect network packets while providing insights into  security risks,making it a valuable tool for penetration testers, network administrators, and security enthusiasts.
 
