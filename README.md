@@ -1,3 +1,8 @@
+![Build Status](https://travis-ci.com/KidiIT/VulnSniff.svg?branch=main)
+![Dependencies](https://img.shields.io/david/KidiIT/VulnSniff)
+![GitHub Contributors](https://img.shields.io/github/contributors/KidiIT/VulnSniff)
+
+
 #  VulnSniff
 Vulnerability detection and packet sniffing Tool
 
