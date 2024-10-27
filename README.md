@@ -1,4 +1,5 @@
-![Build Status](https://app.travis-ci.com/KidiIT/VulnSniff.svg?token=HC62QKJ5FjqqPJS4DciP&brannch=main) ![Dependencies](https://img.shields.io/david/KidiIT/VulnSniff)   ![GitHub Contributors](https://img.shields.io/github/contributors/KidiIT/VulnSniff) 
+![Build Status](https://app.travis-ci.com/KidiIT/VulnSniff.svg?token=HC62QKJ5FjqqPJS4DciP&brannch=main)    ![GitHub Contributors](https://img.shields.io/github/contributors/KidiIT/VulnSniff)![Static Badge](https://img.shields.io/badge/Log%20Scan-passing-brightgreen)
+
 
 
 #  VulnSniff
