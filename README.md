@@ -1,6 +1,6 @@
 ![Build Status](https://app.travis-ci.com/KidiIT/VulnSniff.svg?token=HC62QKJ5FjqqPJS4DciP&brannch=main)    ![GitHub Contributors](https://img.shields.io/github/contributors/KidiIT/VulnSniff)   ![Static Badge](https://img.shields.io/badge/Log%20Scan-passing-brightgreen)
 
-
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
 #  VulnSniff
 Vulnerability detection and packet sniffing Tool
