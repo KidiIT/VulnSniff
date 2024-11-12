@@ -30,10 +30,13 @@ VulnSniff is built with security in mind,ensuring reliable network monitoring wh
  git clone https://github.com/KidiIT/VulnSniff.git
 
 cd VulnSniff
+
 3.  set up a virtual Environement(Optional but Recommended)
+
 ## For Linux/MacOS:
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 ## For Windows:
@@ -43,9 +46,11 @@ python -m venv venv
 venv\Scripts\activate
 
 4. Install Dependencies
-firstly do this because installation : pip freeze > requirements.txt 
+firstly do this before installation : 
 
-pip install -r requirements.txt
+$. pip freeze > requirements.txt 
+
+$. pip install -r requirements.txt
 
 
 6. Install Nmap(if not already installed):
@@ -57,8 +62,10 @@ sudo apt-get install nmap
 brew install nmap 
 
 ##  Usage
+
 To start using VulnSniff, run the following command:
 sudo python3 packet_sniffer.py --interface eth0 --scan-target 192.168.1.1
+
 ## Command-lin Options:
 .--interface: Specify the network interface to sniff packets.
 .--scan-target:Provide the IP address or network range to scan for vulnerabilities
