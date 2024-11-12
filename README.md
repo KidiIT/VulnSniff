@@ -43,7 +43,10 @@ python -m venv venv
 venv\Scripts\activate
 
 4. Install Dependencies
+firstly do this because installation : pip freeze > requirements.txt 
+
 pip install -r requirements.txt
+
 
 6. Install Nmap(if not already installed):
 ## For Linux:
