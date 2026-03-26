@@ -2,6 +2,8 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
+[![Check out KidiIT's profile on stardev.io](https://stardev.io/developers/KidiIT/badge/languages/global.svg)](https://stardev.io/developers/KidiIT)
+
 #  VulnSniff
 Vulnerability detection and packet sniffing Tool
 
